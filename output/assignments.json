@@ -1,0 +1,74 @@
+[
+  {
+    "team_name": "NeuralNomads",
+    "track": "AI Safety",
+    "project_url": "https://github.com/neuralnomads/sprint1",
+    "assigned_judge": "alice@apart.ai"
+  },
+  {
+    "team_name": "SafeMinds",
+    "track": "AI Safety",
+    "project_url": "https://github.com/safeminds/sprint1",
+    "assigned_judge": "alice@apart.ai"
+  },
+  {
+    "team_name": "RedTeamRocks",
+    "track": "AI Safety",
+    "project_url": "https://github.com/redteamrocks/sprint1",
+    "assigned_judge": "alice@apart.ai"
+  },
+  {
+    "team_name": "RobustReasoners",
+    "track": "AI Safety",
+    "project_url": "https://github.com/robustreasoners/sprint1",
+    "assigned_judge": "alice@apart.ai"
+  },
+  {
+    "team_name": "AlignmentAces",
+    "track": "Alignment",
+    "project_url": "https://github.com/alignmentaces/sprint1",
+    "assigned_judge": "carol@apart.ai"
+  },
+  {
+    "team_name": "ValueVanguard",
+    "track": "Alignment",
+    "project_url": "https://github.com/valuevanguard/sprint1",
+    "assigned_judge": "carol@apart.ai"
+  },
+  {
+    "team_name": "GoalGuardians",
+    "track": "Alignment",
+    "project_url": "https://github.com/goalguardians/sprint1",
+    "assigned_judge": "carol@apart.ai"
+  },
+  {
+    "team_name": "ByteBrigade",
+    "track": "Interpretability",
+    "project_url": "https://github.com/bytebrigade/sprint1",
+    "assigned_judge": "bob@apart.ai"
+  },
+  {
+    "team_name": "ProbeTeam",
+    "track": "Interpretability",
+    "project_url": "https://github.com/probeteam/sprint1",
+    "assigned_judge": "bob@apart.ai"
+  },
+  {
+    "team_name": "FeatureForge",
+    "track": "Interpretability",
+    "project_url": "https://github.com/featureforge/sprint1",
+    "assigned_judge": "bob@apart.ai"
+  },
+  {
+    "team_name": "CircuitSeekers",
+    "track": "Interpretability",
+    "project_url": "https://github.com/circuitseekers/sprint1",
+    "assigned_judge": "bob@apart.ai"
+  },
+  {
+    "team_name": "SteeredSystems",
+    "track": "Interpretability",
+    "project_url": "https://github.com/steeredsystems/sprint1",
+    "assigned_judge": "bob@apart.ai"
+  }
+]

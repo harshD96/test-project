@@ -1,0 +1,13 @@
+team_name,track,project_url,score_innovation,score_feasibility,score_impact,judge_email
+NeuralNomads,AI Safety,https://github.com/neuralnomads/sprint1,8.5,7.0,9.0,alice@apart.ai
+ByteBrigade,Interpretability,https://github.com/bytebrigade/sprint1,7.0,8.5,7.5,bob@apart.ai
+SafeMinds,AI Safety,https://github.com/safeminds/sprint1,9.0,6.5,8.0,alice@apart.ai
+AlignmentAces,Alignment,https://github.com/alignmentaces/sprint1,6.5,9.0,7.0,carol@apart.ai
+ProbeTeam,Interpretability,https://github.com/probeteam/sprint1,8.0,7.5,8.5,bob@apart.ai
+RedTeamRocks,AI Safety,https://github.com/redteamrocks/sprint1,7.5,8.0,9.5,alice@apart.ai
+FeatureForge,Interpretability,https://github.com/featureforge/sprint1,9.5,7.0,8.0,bob@apart.ai
+ValueVanguard,Alignment,https://github.com/valuevanguard/sprint1,8.0,8.5,7.5,carol@apart.ai
+CircuitSeekers,Interpretability,https://github.com/circuitseekers/sprint1,7.0,9.0,6.5,bob@apart.ai
+RobustReasoners,AI Safety,https://github.com/robustreasoners/sprint1,8.5,7.5,8.0,alice@apart.ai
+GoalGuardians,Alignment,https://github.com/goalguardians/sprint1,6.0,8.0,9.0,carol@apart.ai
+SteeredSystems,Interpretability,https://github.com/steeredsystems/sprint1,9.0,6.0,7.5,bob@apart.ai

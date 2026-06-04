@@ -1,0 +1,13 @@
+rank,team_name,track,total_score,score_innovation,score_feasibility,score_impact,project_url
+1,RedTeamRocks,AI Safety,8.33,7.5,8.0,9.5,https://github.com/redteamrocks/sprint1
+2,NeuralNomads,AI Safety,8.17,8.5,7.0,9.0,https://github.com/neuralnomads/sprint1
+3,FeatureForge,Interpretability,8.17,9.5,7.0,8.0,https://github.com/featureforge/sprint1
+4,ProbeTeam,Interpretability,8.0,8.0,7.5,8.5,https://github.com/probeteam/sprint1
+5,RobustReasoners,AI Safety,8.0,8.5,7.5,8.0,https://github.com/robustreasoners/sprint1
+6,ValueVanguard,Alignment,8.0,8.0,8.5,7.5,https://github.com/valuevanguard/sprint1
+7,SafeMinds,AI Safety,7.83,9.0,6.5,8.0,https://github.com/safeminds/sprint1
+8,GoalGuardians,Alignment,7.67,6.0,8.0,9.0,https://github.com/goalguardians/sprint1
+9,ByteBrigade,Interpretability,7.67,7.0,8.5,7.5,https://github.com/bytebrigade/sprint1
+10,SteeredSystems,Interpretability,7.5,9.0,6.0,7.5,https://github.com/steeredsystems/sprint1
+11,AlignmentAces,Alignment,7.5,6.5,9.0,7.0,https://github.com/alignmentaces/sprint1
+12,CircuitSeekers,Interpretability,7.5,7.0,9.0,6.5,https://github.com/circuitseekers/sprint1

@@ -1,0 +1,23 @@
+[
+  {
+    "to": "alice@apart.ai",
+    "judge_name": "Alice",
+    "track": "AI Safety",
+    "submission_count": 4,
+    "body": "Subject: [Apart Sprint] Your Judge Briefing \u2014 AI Safety Track\n\nHi Alice,\n\nThank you for judging the AI Safety track at this Apart Research Sprint!\n\nYou have been assigned 4 submission(s) to review:\n\n\n1. **NeuralNomads**\n   Project URL: https://github.com/neuralnomads/sprint1\n   Track: AI Safety\n\n\n2. **SafeMinds**\n   Project URL: https://github.com/safeminds/sprint1\n   Track: AI Safety\n\n\n3. **RedTeamRocks**\n   Project URL: https://github.com/redteamrocks/sprint1\n   Track: AI Safety\n\n\n4. **RobustReasoners**\n   Project URL: https://github.com/robustreasoners/sprint1\n   Track: AI Safety\n\n\nPlease score each project on three dimensions (0\u201310):\n  - Innovation: How novel or creative is the approach?\n  - Feasibility: How realistic is implementation?\n  - Impact: How significant could the real-world effect be?\n\nSubmit your scores via the scoring form by the deadline.\n\nThanks again for your time and expertise!\n\n\u2014 The Apart Research Team"
+  },
+  {
+    "to": "bob@apart.ai",
+    "judge_name": "Bob",
+    "track": "Interpretability",
+    "submission_count": 5,
+    "body": "Subject: [Apart Sprint] Your Judge Briefing \u2014 Interpretability Track\n\nHi Bob,\n\nThank you for judging the Interpretability track at this Apart Research Sprint!\n\nYou have been assigned 5 submission(s) to review:\n\n\n1. **ByteBrigade**\n   Project URL: https://github.com/bytebrigade/sprint1\n   Track: Interpretability\n\n\n2. **ProbeTeam**\n   Project URL: https://github.com/probeteam/sprint1\n   Track: Interpretability\n\n\n3. **FeatureForge**\n   Project URL: https://github.com/featureforge/sprint1\n   Track: Interpretability\n\n\n4. **CircuitSeekers**\n   Project URL: https://github.com/circuitseekers/sprint1\n   Track: Interpretability\n\n\n5. **SteeredSystems**\n   Project URL: https://github.com/steeredsystems/sprint1\n   Track: Interpretability\n\n\nPlease score each project on three dimensions (0\u201310):\n  - Innovation: How novel or creative is the approach?\n  - Feasibility: How realistic is implementation?\n  - Impact: How significant could the real-world effect be?\n\nSubmit your scores via the scoring form by the deadline.\n\nThanks again for your time and expertise!\n\n\u2014 The Apart Research Team"
+  },
+  {
+    "to": "carol@apart.ai",
+    "judge_name": "Carol",
+    "track": "Alignment",
+    "submission_count": 3,
+    "body": "Subject: [Apart Sprint] Your Judge Briefing \u2014 Alignment Track\n\nHi Carol,\n\nThank you for judging the Alignment track at this Apart Research Sprint!\n\nYou have been assigned 3 submission(s) to review:\n\n\n1. **AlignmentAces**\n   Project URL: https://github.com/alignmentaces/sprint1\n   Track: Alignment\n\n\n2. **ValueVanguard**\n   Project URL: https://github.com/valuevanguard/sprint1\n   Track: Alignment\n\n\n3. **GoalGuardians**\n   Project URL: https://github.com/goalguardians/sprint1\n   Track: Alignment\n\n\nPlease score each project on three dimensions (0\u201310):\n  - Innovation: How novel or creative is the approach?\n  - Feasibility: How realistic is implementation?\n  - Impact: How significant could the real-world effect be?\n\nSubmit your scores via the scoring form by the deadline.\n\nThanks again for your time and expertise!\n\n\u2014 The Apart Research Team"
+  }
+]
